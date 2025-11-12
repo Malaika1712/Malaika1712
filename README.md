@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malaika Asif
 - 👀 I’m interested in AI and Cybersecurity
 - 🌱 I’m currently pursuing my Bachelor's in Information Science
-- 📫 How to reach me malaikanoorasif@gmail.com
+- 📫 How to reach me malaikanoorasif@gmail.com OR masif@terpmail.umd.edu
 - 😄 Pronouns: she/her
 
 <!---
